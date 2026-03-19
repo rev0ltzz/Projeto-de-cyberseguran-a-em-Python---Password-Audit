@@ -17,7 +17,7 @@ Demonstrate how weak passwords can be exploited and highlight the importance of 
 ## ▶️ How to run
 
 ```bash
-python main.py
+python password_audit.py
 ```
 
 ## 📊 Example Output
